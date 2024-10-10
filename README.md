@@ -81,28 +81,6 @@ My PC Specs [Markdown Reddit]
 | **RAM** | [Corsair Vengeance LPX DDR4 3200 C16 1x16GB](https://ram.userbenchmark.com/SpeedTest/748189/Corsair-Vengeance-LPX-CMK16GX4M1E3200C16-1x16GB) | 51.5%  |
 | **MBD** | [Gigabyte GA-Z590 GAMING X](https://www.userbenchmark.com/System/Gigabyte-GA-Z590-GAMING-X/226038)                                           |        |
 
----
 
-My PC Specs [Markdown Forum]
-
-[url=https://www.userbenchmark.com/UserRun/65654640]UserBenchmarks: Game 200%, Desk 106%, Work 198%[/url]
-CPU: [url=https://cpu.userbenchmark.com/Intel-Core-i7-11700K/Rating/4107]Intel Core i7-11700K[/url] - [b]105.8%[/b]
-GPU: [url=https://gpu.userbenchmark.com/Nvidia-RTX-3080/Rating/4080]Nvidia RTX 3080[/url] - [b]197.2%[/b]
-SSD: [url=https://ssd.userbenchmark.com/SpeedTest/1582251/GIGABYTE-GP-GM30512G-G]Gigabyte GP-GM30512G-G 512GB[/url] - [b]232%[/b]
-HDD: [url=https://hdd.userbenchmark.com/WD-Blue-1TB-2012/Rating/1779]WD Blue 1TB (2012)[/url] - [b]100.8%[/b]
-RAM: [url=https://ram.userbenchmark.com/SpeedTest/748189/Corsair-Vengeance-LPX-CMK16GX4M1E3200C16-1x16GB]Corsair Vengeance LPX DDR4 3200 C16 1x16GB[/url] - [b]51.5%[/b]
-MBD: [url=https://www.userbenchmark.com/System/Gigabyte-GA-Z590-GAMING-X/226038]Gigabyte GA-Z590 GAMING X[/url]
-
----
-
-My PC Specs [Simple Text]
-
-UserBenchmarks: Game 200%, Desk 106%, Work 198%
-CPU: Intel Core i7-11700K - 105.8%
-GPU: Nvidia RTX 3080 - 197.2%
-SSD: Gigabyte GP-GM30512G-G 512GB - 232%
-HDD: WD Blue 1TB (2012) - 100.8%
-RAM: Corsair Vengeance LPX DDR4 3200 C16 1x16GB - 51.5%
-MBD: Gigabyte GA-Z590 GAMING X
 
 ---
