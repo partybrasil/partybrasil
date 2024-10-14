@@ -84,4 +84,4 @@ My PC Specs [Markdown Reddit]
 
 ---
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu partybrasil>/<seu partybrasil>/blob/output/github-contribution-grid-snake2.svg)
