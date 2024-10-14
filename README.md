@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Party キラ</h1>
 <h3 align="center">A passionate gamer and developer from Brazil 🇧🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=migueldiasster&label=Profile%20views&color=0e75b6&style=flat" alt="migueldiasster" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=partybrasil&label=Profile%20views&color=0e75b6&style=flat" alt="partybrasil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=migueldiasster" alt="migueldiasster" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=partybrasil" alt="partybrasil" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/l2gp" target="blank"><img src="https://img.shields.io/twitter/follow/l2gp?logo=twitter&style=for-the-badge" alt="l2gp" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [L2GamePlay](https://www.link.com)
 
-- 👨‍💻 All of my projects are available at [https://migueldiasster.github.com](https://migueldiasster.github.com)
+- 👨‍💻 All of my projects are available at [https://partybrasil.github.com](https://partybrasil.github.com)
 
 - 📝 I regularly write articles on [https://www.link.com](https://www.link.com)
 
@@ -60,11 +60,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/partybrasil"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="partybrasil" /></a><a href="https://ko-fi.com/partybrasil"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="partybrasil" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=migueldiasster&show_icons=true&locale=en&layout=compact" alt="migueldiasster" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=partybrasil&show_icons=true&locale=en&layout=compact" alt="partybrasil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=migueldiasster&show_icons=true&locale=en" alt="migueldiasster" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=partybrasil&show_icons=true&locale=en" alt="partybrasil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=migueldiasster&" alt="migueldiasster" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=partybrasil&" alt="partybrasil" /></p>
 
 
 
