@@ -55,7 +55,7 @@
 
 ---
 
-My PC Specs [Markdown Reddit]
+My _PC_ Specs **[Markdown]**
 
 [UserBenchmarks: Game 200%, Desk 106%, Work 198%](https://www.userbenchmark.com/UserRun/65654640)
 
