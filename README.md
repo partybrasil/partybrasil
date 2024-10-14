@@ -82,5 +82,6 @@ My PC Specs [Markdown Reddit]
 | **MBD** | [Gigabyte GA-Z590 GAMING X](https://www.userbenchmark.com/System/Gigabyte-GA-Z590-GAMING-X/226038)                                           |        |
 
 
-
 ---
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
