@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=partybrasil" alt="partybrasil" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/partybrasil" target="blank"><img src="https://img.shields.io/twitter/follow/partybrasil?logo=twitter&style=for-the-badge" alt="partybrasil" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PartyCashNFT" target="blank"><img src="https://img.shields.io/twitter/follow/PartyCashNFT?logo=twitter&style=for-the-badge" alt="PartyCashNFT" /></a> </p>
 
 - 🔭 I’m currently working on **L2GamePlay Server and PartyCash Dungeon Metaverse**
 
