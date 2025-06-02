@@ -16,7 +16,7 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
-- 👋 Hi, I’m @msalemad 👋
+- 👋 Hi, I’m Miguel 👋
 - 🏠 I live in Málaga, Spain
 - 💻 I work with Translations
 - 📚 I'm currently learning Python, Java, JavaScript, HTML, CSS3, React, Node.js, Django, Flask...
@@ -32,10 +32,6 @@
 - 👀 I’m interested in learning more development and know new friends
 
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msalemad&label=Profile%20views&color=0e75b6&style=plastic" alt="msalemad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msalemad" alt="msalemad" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msalemad&show_icons=true&theme=tokyonight&locale=es&layout=compact" alt="msalemad" /></p>
 
