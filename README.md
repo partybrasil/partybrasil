@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=partybrasil&label=Profile%20views&color=0e75b6&style=plastic" alt="partybrasil" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=partybrasil&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <a href="https://twitter.com/PartyCashNFT" target="blank"><img src="https://img.shields.io/twitter/follow/PartyCashNFT?logo=twitter&style=for-the-badge" alt="PartyCashNFT" /></a> </p>
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
