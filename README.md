@@ -33,7 +33,7 @@
 > 🌟 **Misión:** Crear herramientas que simplifiquen el desarrollo web y la automatización en GitHub
 
 <br>
-## 🌈 MIS PROYECTOS
+<b> ⚙ MIS DEV TOOLS </b>
 
 <details open>
 <summary><b>🏗️ BUILDERS & CONSTRUCTORES</b></summary>
@@ -41,10 +41,10 @@
 
 | 🎯 Proyecto | 📝 Descripción | 🔗 Enlaces |
 |------------|----------------|-----------|
-| **📋 README Builder** | Crea README.md increíbles para tus proyectos con plantillas profesionales y personalizables | [🌐 Demo](https://partybrasil.github.io/GH-Readme-Builder) • [📦 Repo](https://github.com/partybrasil/GH-Readme-Builder) |
-| **⚡ Actions Workflow** | Constructor visual de GitHub Actions. Crea workflows YAML sin memorizar sintaxis | [🌐 Demo](https://partybrasil.github.io/GH-Actions-Workflow-Builder) • [📦 Repo](https://github.com/partybrasil/GH-Actions-Workflow-Builder) |
-| **📜 License Builder** | Genera y personaliza licencias open source para tus repositorios | [🌐 Demo](https://partybrasil.github.io/GH-License-Builder) • [📦 Repo](https://github.com/partybrasil/GH-License-Builder) |
-| **🎨 Badges Builder** | Diseña badges personalizados con miles de estilos, colores y logos | [🌐 Demo](https://partybrasil.github.io/GH-Badges-Builder) • [📦 Repo](https://github.com/partybrasil/GH-Badges-Builder) |
+| **📋 README Builder** | Crea README.md increíbles para tus proyectos con plantillas profesionales y personalizables | [🌐 Live](https://partybrasil.github.io/GH-Readme-Builder) • [📦 Repo](https://github.com/partybrasil/GH-Readme-Builder) |
+| **⚡ Actions Workflow** | Constructor visual de GitHub Actions. Crea workflows YAML sin memorizar sintaxis | [🌐 Live](https://partybrasil.github.io/GH-Actions-Workflow-Builder) • [📦 Repo](https://github.com/partybrasil/GH-Actions-Workflow-Builder) |
+| **📜 License Builder** | Genera y personaliza licencias open source para tus repositorios | [🌐 Live](https://partybrasil.github.io/GH-License-Builder) • [📦 Repo](https://github.com/partybrasil/GH-License-Builder) |
+| **🎨 Badges Builder** | Diseña badges personalizados con miles de estilos, colores y logos | [🌐 Live](https://partybrasil.github.io/GH-Badges-Builder) • [📦 Repo](https://github.com/partybrasil/GH-Badges-Builder) |
 
 </details>
 
@@ -54,8 +54,8 @@
 
 | 🎯 Proyecto | 📝 Descripción | 🔗 Enlaces |
 |------------|----------------|-----------|
-| **✍️ Markdown Editor** | Editor Markdown en vivo con preview instantáneo y sintaxis resaltada | [🌐 Demo](https://partybrasil.github.io/Markdown-Live-Editor) • [📦 Repo](https://github.com/partybrasil/Markdown-Live-Editor) |
-| **🔄 Requirements Updater** | Actualiza automáticamente las dependencias de tus proyectos Python | [🌐 Demo](https://party-tools.github.io/requirements-updater) • [📦 Repo](https://github.com/Party-Tools/requirements-updater) |
+| **✍️ Markdown Editor** | Editor Markdown en vivo con preview instantáneo y sintaxis resaltada | [🌐 Live](https://partybrasil.github.io/Markdown-Live-Editor) • [📦 Repo](https://github.com/partybrasil/Markdown-Live-Editor) |
+| **🔄 Requirements Updater** | Actualiza automáticamente las dependencias de tus proyectos Python | [🌐 Live](https://party-tools.github.io/requirements-updater) • [📦 Repo](https://github.com/Party-Tools/requirements-updater) |
 
 </details>
 
