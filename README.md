@@ -4,12 +4,12 @@
 
 <br>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+PartyBrasil!;aka Party キラ" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+PartyBrasil!;aka Party キラ" />
 </h1>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tools+Creator;Open+Source+Lover;GitHub+Actions+Expert)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tools+Creator;Open+Source+Lover;GitHub+Actions+Expert)](https://git.io/typing-svg)
   
 </div>
 
@@ -69,7 +69,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=partybrasil&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=partybrasil&theme=github-dark-blue&hide_border=true&background=0D1117" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=partybrasil&theme=github-dark-blue&hide_border=true&background=0D1117" />
 
 </div>
 
