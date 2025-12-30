@@ -2,10 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=header" width="100%"/>
 </p>
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+PartyBrasil!;aka+Party+キラ)](https://git.io/typing-svg)
+  
+</div>
+
 <br>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+PartyBrasil!;aka Party キラ" />
-</h1>
 
 <div align="center">
   
