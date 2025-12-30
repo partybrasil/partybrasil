@@ -8,6 +8,10 @@
   
 </div>
 
+<div align="center">
+  <hr style="width:45%;max-width:340px;border:0;border-top:2px solid #4b5563;margin:8px auto;"/>
+</div>
+
 <br>
 
 <div align="center">
