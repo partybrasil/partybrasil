@@ -13,12 +13,6 @@
   
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&text=PARTY%20BRASIL&height=150&fontSize=60&desc=Open%20Source%20Developer%20%26%20Tools%20Creator&descAlignY=75&descAlign=50" width="100%"/>
-</p>
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-partybrasil-black?style=flat-square&logo=github)](https://github.com/partybrasil)
