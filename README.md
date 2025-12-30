@@ -1,48 +1,109 @@
-<h1 align="center">Hi 👋, I'm Miguel Diaz (aka Party キラ)</h1>
-<h3 align="center">A passionate gamer and developer from Brazil</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=header" width="100%"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=partybrasil&label=Profile%20views&color=0e75b6&style=plastic" alt="partybrasil" /> </p>
+<br>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+PartyBrasil!;aka Party キラ" />
+</h1>
 
-<p align="left"> <a href="https://twitter.com/PartyCashNFT" target="blank"><img src="https://img.shields.io/twitter/follow/PartyCashNFT?logo=twitter&style=for-the-badge" alt="PartyCashNFT" /></a> </p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tools+Creator;Open+Source+Lover;GitHub+Actions+Expert)](https://git.io/typing-svg)
+  
+</div>
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html5.org/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+<br>
 
-- 👋 Hi, I’m Miguel 👋
-- 🏠 I live in Málaga, Spain
-- 💻 I work with Translations
-- 📚 I'm currently learning Python, Java, JavaScript, HTML, CSS3, React, Node.js, Django, Flask...
-- 📷 I'm an amateur photographer, and I love to travel and capture moments
-- 😄 I'm a happy person, I love to laugh and make people smile
-- 🐱 I have a cute cat named Michi!
-- 🎮 I'm a gamer, and I love to play Destiny 2, Diablo 4, CS, Fallout76...
-- 🎧 I love music, and I'm a fan of rock, heavy-metal, hip hop, EDM...
-- 🎁 I love to give gifts, and I'm always looking for new ideas
-- 🎆 I love to celebrate special occasions, and I'm always up for a party
-- 💝 I'm a romantic, and I love to give flowers and chocolates
-- 😎 I love to relax, and I'm always looking for new ways to do it more chill
-- 👀 I’m interested in learning more development and know new friends
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&text=PARTY%20BRASIL&height=150&fontSize=60&desc=Open%20Source%20Developer%20%26%20Tools%20Creator&descAlignY=75&descAlign=50" width="100%"/>
+</p>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-partybrasil-black?style=flat-square&logo=github)](https://github.com/partybrasil)
+![Profile Views](https://komarev.com/ghpvc/?username=partybrasil&style=flat-square)
+![Stars](https://img.shields.io/github/stars/partybrasil?style=flat-square&color=yellow)
+
+</div>
+
+<br>
+
+> 🌟 **Misión:** Crear herramientas que simplifiquen el desarrollo web y la automatización en GitHub
+
+<br>
+## 🌈 MIS PROYECTOS
+
+<details open>
+<summary><b>🏗️ BUILDERS & CONSTRUCTORES</b></summary>
+<br>
+
+| 🎯 Proyecto | 📝 Descripción | 🔗 Enlaces |
+|------------|----------------|-----------|
+| **📋 README Builder** | Crea README.md increíbles para tus proyectos con plantillas profesionales y personalizables | [🌐 Demo](https://partybrasil.github.io/GH-Readme-Builder) • [📦 Repo](https://github.com/partybrasil/GH-Readme-Builder) |
+| **⚡ Actions Workflow** | Constructor visual de GitHub Actions. Crea workflows YAML sin memorizar sintaxis | [🌐 Demo](https://partybrasil.github.io/GH-Actions-Workflow-Builder) • [📦 Repo](https://github.com/partybrasil/GH-Actions-Workflow-Builder) |
+| **📜 License Builder** | Genera y personaliza licencias open source para tus repositorios | [🌐 Demo](https://partybrasil.github.io/GH-License-Builder) • [📦 Repo](https://github.com/partybrasil/GH-License-Builder) |
+| **🎨 Badges Builder** | Diseña badges personalizados con miles de estilos, colores y logos | [🌐 Demo](https://partybrasil.github.io/GH-Badges-Builder) • [📦 Repo](https://github.com/partybrasil/GH-Badges-Builder) |
+
+</details>
+
+<details open>
+<summary><b>✏️ EDITORES & UTILIDADES</b></summary>
+<br>
+
+| 🎯 Proyecto | 📝 Descripción | 🔗 Enlaces |
+|------------|----------------|-----------|
+| **✍️ Markdown Editor** | Editor Markdown en vivo con preview instantáneo y sintaxis resaltada | [🌐 Demo](https://partybrasil.github.io/Markdown-Live-Editor) • [📦 Repo](https://github.com/partybrasil/Markdown-Live-Editor) |
+| **🔄 Requirements Updater** | Actualiza automáticamente las dependencias de tus proyectos Python | [🌐 Demo](https://party-tools.github.io/requirements-updater) • [📦 Repo](https://github.com/Party-Tools/requirements-updater) |
+
+</details>
+
+<br>
 
 ---
 
-💻 My _PC_ Specs - Party Machine 💻
+<br>
 
-[UserBenchmarks: Game 200%, Desk 106%, Work 198%](https://www.userbenchmark.com/UserRun/65654640)
+## 📈 **GITHUB ANALYTICS**
 
+<div align="center">
 
-|               | Model                                                                                                                                     | Bench  |
-| :------------ | :---------------------------------------------------------------------------------------------------------------------------------------- | :----- |
-| **CPU** | [Intel Core i7-11700K](https://cpu.userbenchmark.com/Intel-Core-i7-11700K/Rating/4107)                                                       | 105.8% |
-| **GPU** | [Nvidia RTX 3080](https://gpu.userbenchmark.com/Nvidia-RTX-3080/Rating/4080)                                                                 | 197.2% |
-| **SSD** | [WD Black SN770 1TB NVMe M.2 (2280) PCIe® Gen4 x4](https://ssd.userbenchmark.com/SpeedTest/1582251/GIGABYTE-GP-GM30512G-G)                   | 232%   |
-| **HDD** | [WD Blue 1TB (2012)](https://hdd.userbenchmark.com/WD-Blue-1TB-2012/Rating/1779)                                                             | 100.8% |
-| **RAM** | [Corsair Vengeance LPX DDR4 3200 C16 1x16GB](https://ram.userbenchmark.com/SpeedTest/748189/Corsair-Vengeance-LPX-CMK16GX4M1E3200C16-1x16GB) | 51.5%  |
-| **MBD** | [Gigabyte GA-Z590 GAMING X](https://www.userbenchmark.com/System/Gigabyte-GA-Z590-GAMING-X/226038)                                           |        |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=partybrasil&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=partybrasil&theme=github-dark-blue&hide_border=true&background=0D1117" />
 
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=partybrasil&theme=github-compact&hide_border=true&bg_color=0D1117&color=58a6ff&line=1f6feb&point=c9d1d9" />
+</div>
+
+<br>
 
 ---
-NVMe M.2 changed - OLD Gigabyte M30 / New WD Black SN770 - Need new Benchmark - I need a userbenchmark.com sub to use the benchmark software
+
+<div align="center">
+
+### 🔗 **TOOLS QUICK LINKS**
+
+[🌐 README Builder](https://partybrasil.github.io/GH-Readme-Builder) • 
+[⚡ Workflow Builder](https://partybrasil.github.io/GH-Actions-Workflow-Builder) • 
+[📜 License Builder](https://partybrasil.github.io/GH-License-Builder) • 
+[🎨 Badges Builder](https://partybrasil.github.io/GH-Badges-Builder) • 
+[✍️ Markdown Editor](https://partybrasil.github.io/Markdown-Live-Editor) • 
+[🔄 Req. Updater](https://party-tools.github.io/requirements-updater)
+
+<br>
+
+### ⭐ **SI TE AYUDARON MIS HERRAMIENTAS**
+
+Considera darles una estrella en GitHub para apoyar el desarrollo
+
+<br>
+
+**Made with 💜 by PartyBrasil**
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</p>
