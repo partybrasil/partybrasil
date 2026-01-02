@@ -69,7 +69,6 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=partybrasil&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=partybrasil&theme=github-dark-blue&hide_border=true&background=0D1117" />
 
 </div>
